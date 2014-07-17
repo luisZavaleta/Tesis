@@ -1,0 +1,118 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{11}{chapter.1}
+\contentsline {section}{\numberline {1.1}Antecedentes}{11}{section.1.1}
+\contentsline {section}{\numberline {1.2}Definici\IeC {\'o}n del problema}{13}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objetivos}{14}{section.1.3}
+\contentsline {section}{\numberline {1.4}Justificaci\IeC {\'o}n}{15}{section.1.4}
+\contentsline {section}{\numberline {1.5}Hip\IeC {\'o}tesis}{16}{section.1.5}
+\contentsline {section}{\numberline {1.6}Metodolog\IeC {\'\i }a}{17}{section.1.6}
+\contentsline {section}{\numberline {1.7}Conclusiones}{17}{section.1.7}
+\contentsline {chapter}{\numberline {2}Estado del arte}{18}{chapter.2}
+\contentsline {chapter}{\numberline {3}Elementos que componen una aplicaci\IeC {\'o}n de RA}{26}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{26}{section.3.1}
+\contentsline {section}{\numberline {3.2}Aplicaciones gr\IeC {\'a}ficas}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introducci\IeC {\'o}n}{26}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Aplicaciones gr\IeC {\'a}ficas interactivas}{27}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Software y lenguajes de programaci\IeC {\'o}n para gr\IeC {\'a}ficas computacionales}{29}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Est\IeC {\'a}ndares de software gr\IeC {\'a}fico}{30}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Bibliotecas para creaci\IeC {\'o}n de aplicaciones de RA}{32}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusi\IeC {\'o}n}{33}{section.3.4}
+\contentsline {chapter}{\numberline {4}Arquitectura basada en componentes}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{34}{section.4.1}
+\contentsline {section}{\numberline {4.2}Antecedentes}{34}{section.4.2}
+\contentsline {section}{\numberline {4.3}Diferencias entre POO y POC}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}Ventajas de la POC}{37}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Conquistar la complejidad}{37}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Administrar los cambios}{37}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Reusar c\IeC {\'o}digo}{38}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Mejora de la calidad}{38}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Aumento en la productividad}{38}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Fomenta la estandarizaci\IeC {\'o}n del software}{38}{subsection.4.4.6}
+\contentsline {section}{\numberline {4.5}Tecnolog\IeC {\'\i }as orientadas a componentes}{39}{section.4.5}
+\contentsline {section}{\numberline {4.6}Conclusi\IeC {\'o}n}{43}{section.4.6}
+\contentsline {chapter}{\numberline {5}Marco de trabajo}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}OpenGL}{44}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}OpenGL ES}{45}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}WebGL}{45}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Conclusi\IeC {\'o}n}{46}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}ARtoolkit}{46}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Introducci\IeC {\'o}n}{46}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Implementaciones}{48}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Android}{49}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Introducci\IeC {\'o}n}{49}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Arquitectura}{50}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Frameworks para el desarrollo r\IeC {\'a}pido de aplicaciones}{52}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Spring Roo}{52}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Grails}{53}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Conclusi\IeC {\'o}n}{54}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Groovy}{54}{section.5.5}
+\contentsline {section}{\numberline {5.6}Rest}{56}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}REST y Grails}{58}{subsection.5.6.1}
+\contentsline {section}{\numberline {5.7}Json}{59}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conclusi\IeC {\'o}n}{60}{section.5.8}
+\contentsline {chapter}{\numberline {6}Caching basado en geoposicionamiento}{61}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{61}{section.6.1}
+\contentsline {section}{\numberline {6.2}Caching}{62}{section.6.2}
+\contentsline {section}{\numberline {6.3}Implementaci\IeC {\'o}n}{63}{section.6.3}
+\contentsline {section}{\numberline {6.4}Conclusi\IeC {\'o}n}{66}{section.6.4}
+\contentsline {chapter}{\numberline {7}Arquitectura propuesta}{69}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introducci\IeC {\'o}n}{69}{section.7.1}
+\contentsline {section}{\numberline {7.2}ADARA}{69}{section.7.2}
+\contentsline {section}{\numberline {7.3}Cliente}{71}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Activity}{72}{subsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.1.1}Prop\IeC {\'o}sitos}{73}{subsubsection.7.3.1.1}
+\contentsline {subsubsection}{\numberline {7.3.1.2}Implementaci\IeC {\'o}n}{73}{subsubsection.7.3.1.2}
+\contentsline {subsubsection}{\numberline {7.3.1.3}Ventajas}{76}{subsubsection.7.3.1.3}
+\contentsline {subsection}{\numberline {7.3.2}Men\IeC {\'u}s}{76}{subsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.2.1}Prop\IeC {\'o}sitos}{76}{subsubsection.7.3.2.1}
+\contentsline {subsubsection}{\numberline {7.3.2.2}Implementaci\IeC {\'o}n}{76}{subsubsection.7.3.2.2}
+\contentsline {subsubsection}{\numberline {7.3.2.3}Ventajas}{79}{subsubsection.7.3.2.3}
+\contentsline {subsection}{\numberline {7.3.3}Caching}{79}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Carga de objetos 3D}{79}{subsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.4.1}Prop\IeC {\'o}sitos}{80}{subsubsection.7.3.4.1}
+\contentsline {subsubsection}{\numberline {7.3.4.2}Implementaci\IeC {\'o}n}{80}{subsubsection.7.3.4.2}
+\contentsline {subsubsection}{\numberline {7.3.4.3}Ventajas}{81}{subsubsection.7.3.4.3}
+\contentsline {section}{\numberline {7.4}Servidor}{81}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Plugin grails}{82}{subsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.1.1}Prop\IeC {\'o}sitos}{83}{subsubsection.7.4.1.1}
+\contentsline {subsubsection}{\numberline {7.4.1.2}Implementaci\IeC {\'o}n}{83}{subsubsection.7.4.1.2}
+\contentsline {subsubsection}{\numberline {7.4.1.3}Ventajas}{84}{subsubsection.7.4.1.3}
+\contentsline {subsection}{\numberline {7.4.2}An\IeC {\'a}lisis de datos}{84}{subsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.2.1}Prop\IeC {\'o}sitos}{84}{subsubsection.7.4.2.1}
+\contentsline {subsubsection}{\numberline {7.4.2.2}Implementaci\IeC {\'o}n}{84}{subsubsection.7.4.2.2}
+\contentsline {subsubsection}{\numberline {7.4.2.3}Ventajas}{85}{subsubsection.7.4.2.3}
+\contentsline {subsection}{\numberline {7.4.3}Administraci\IeC {\'o}n de aplicaci\IeC {\'o}n}{85}{subsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.3.1}Prop\IeC {\'o}sitos}{86}{subsubsection.7.4.3.1}
+\contentsline {subsubsection}{\numberline {7.4.3.2}Implementaci\IeC {\'o}n}{86}{subsubsection.7.4.3.2}
+\contentsline {subsection}{\numberline {7.4.4}Administraci\IeC {\'o}n de usuario}{86}{subsection.7.4.4}
+\contentsline {subsubsection}{\numberline {7.4.4.1}Prop\IeC {\'o}sitos}{87}{subsubsection.7.4.4.1}
+\contentsline {subsubsection}{\numberline {7.4.4.2}Implementaci\IeC {\'o}n}{87}{subsubsection.7.4.4.2}
+\contentsline {subsection}{\numberline {7.4.5}Comunicaci\IeC {\'o}n}{87}{subsection.7.4.5}
+\contentsline {subsubsection}{\numberline {7.4.5.1}Prop\IeC {\'o}sitos}{87}{subsubsection.7.4.5.1}
+\contentsline {subsubsection}{\numberline {7.4.5.2}Implementaci\IeC {\'o}n}{87}{subsubsection.7.4.5.2}
+\contentsline {subsubsection}{\numberline {7.4.5.3}Ventajas}{90}{subsubsection.7.4.5.3}
+\contentsline {chapter}{\numberline {8}Caso de estudio y resultados}{91}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introducci\IeC {\'o}n}{91}{section.8.1}
+\contentsline {section}{\numberline {8.2}Escenario}{91}{section.8.2}
+\contentsline {section}{\numberline {8.3}Curva de aprendizaje}{92}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Desarrollo tradicional}{92}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Soluciones prove\IeC {\'\i }das por ADARA}{94}{subsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.2.1}Falta de conocimiento de OpenGL por parte del desarrollador}{94}{subsubsection.8.3.2.1}
+\contentsline {subsubsection}{\numberline {8.3.2.2}Necesidad de hace uso de diversas tecnolog\IeC {\'\i }as para poder lograr los objetivos}{94}{subsubsection.8.3.2.2}
+\contentsline {subsubsection}{\numberline {8.3.2.3}Necesidad de entender como funcionaba el c\IeC {\'o}digo de las principales clases para poder extender alguna funcionalidad}{94}{subsubsection.8.3.2.3}
+\contentsline {subsection}{\numberline {8.3.3}Desarrollo por medio de ADARA}{94}{subsection.8.3.3}
+\contentsline {section}{\numberline {8.4}Tiempo de desarrollo}{95}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Desarrollo tradicional}{95}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Desarrollo por medio de ADARA}{95}{subsection.8.4.2}
+\contentsline {section}{\numberline {8.5}Tecnolog\IeC {\'\i }as}{95}{section.8.5}
+\contentsline {subsection}{\numberline {8.5.1}Desarrollo tradicional}{95}{subsection.8.5.1}
+\contentsline {subsection}{\numberline {8.5.2}Desarrollo por medio de ADARA}{96}{subsection.8.5.2}
+\contentsline {section}{\numberline {8.6}Facilidad para agregar nuevos componentes}{96}{section.8.6}
+\contentsline {subsection}{\numberline {8.6.1}Desarrollo tradicional}{96}{subsection.8.6.1}
+\contentsline {subsection}{\numberline {8.6.2}Desarrollo por medio de ADARA}{96}{subsection.8.6.2}
+\contentsline {section}{\numberline {8.7}Enfoque en objetivos de negocio}{97}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Desarrollo tradicional}{97}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}Desarrollo por medio de ADARA}{97}{subsection.8.7.2}
+\contentsline {section}{\numberline {8.8}Conclusi\IeC {\'o}n}{97}{section.8.8}
+\contentsline {chapter}{\numberline {9}Conclusiones}{98}{chapter.9}
+\contentsline {chapter}{\numberline {10}Trabajo futuro}{103}{chapter.10}

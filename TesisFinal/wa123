@@ -1,0 +1,5 @@
+static adaraURL = "http://localhost:7070/AJaguarAdministration/"
+
+
+
+return [adaraRelationsInstance: adaraRelationsInstance, objects3DList:objects3DList(), markerList: markerList(), menuList: menuList()]

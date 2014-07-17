@@ -1,0 +1,337 @@
+\begin{thebibliography}{}
+
+\bibitem[{Android Developers Community}, 2011]{openglAnd}
+{Android Developers Community} (2011).
+\newblock Opengl | android developers.
+\newblock \url{http://developer.android.com/guide/topics/graphics/opengl.html}.
+
+\bibitem[ARToolKit, 2011]{hitl}
+ARToolKit (2011).
+\newblock Setting up artoolkit.
+\newblock
+  \url{http://www.hitl.washington.edu/artoolkit/documentation/usersetup.htm}.
+
+\bibitem[{ARToolWorks Inc}, 2011]{artoolkitios}
+{ARToolWorks Inc} (2011).
+\newblock Artoolkit for ios.
+\newblock \url{http://www.artoolworks.com/products/mobile/artoolkit-for-ios/}.
+
+\bibitem[Azuma, 2004]{Azuma:2004:OAR:1103900.1103926}
+Azuma, R. (2004).
+\newblock Overview of augmented reality.
+\newblock In {\em ACM SIGGRAPH 2004 Course Notes}, SIGGRAPH '04, New York, NY,
+  USA. ACM.
+
+\bibitem[Azuma, 1997]{Azuma97asurvey}
+Azuma, R.~T. (1997).
+\newblock A survey of augmented reality.
+\newblock {\em Presence: Teleoperators and Virtual Environments},
+  6(4):355--385.
+
+\bibitem[Bederson, 1995]{Bederson:1995:AAR:223355.223526}
+Bederson, B.~B. (1995).
+\newblock Audio augmented reality: a prototype automated tour guide.
+\newblock In {\em Conference companion on Human factors in computing systems},
+  CHI '95, pages 210--211, New York, NY, USA. ACM.
+
+\bibitem[Beer, 2010]{geopointer}
+Beer, W. (2010).
+\newblock Geopointer: approaching tangible augmentation of the real world.
+\newblock In {\em Proceedings of the 8th International Conference on Advances
+  in Mobile Computing and Multimedia}, MoMM '10, pages 221--225, New York, NY,
+  USA. ACM.
+
+\bibitem[Bimber and Raskar, 2007]{Bimber:2007:MAA:1281500.1281628}
+Bimber, O. and Raskar, R. (2007).
+\newblock Modern approaches to augmented reality.
+\newblock In {\em ACM SIGGRAPH 2007 courses}, SIGGRAPH '07, New York, NY, USA.
+  ACM.
+
+\bibitem[Caudell and Mizell, 1992]{183317}
+Caudell, T. and Mizell, D. (1992).
+\newblock Augmented reality: an application of heads-up display technology to
+  manual manufacturing processes.
+\newblock In {\em System Sciences, 1992. Proceedings of the Twenty-Fifth Hawaii
+  International Conference on}, volume~ii.
+
+\bibitem[{CodePlex OpenSource Community}, 2011]{slartoolkit}
+{CodePlex OpenSource Community} (2011).
+\newblock Slartoolkit - silverlight and windows phone augmented.
+\newblock \url{http://slartoolkit.codeplex.com/}.
+
+\bibitem[Company, 2008]{citeulike:5955149}
+Company, S. (2008).
+\newblock {\em {Maven: The Definitive Guide}}.
+\newblock O'Reilly Media, Inc., 1 edition.
+
+\bibitem[Davidyuk et~al., 2004]{Davidyuk:2004:CMM:1052380.1052410}
+Davidyuk, O., Riekki, J., Rautio, V.-M., and Sun, J. (2004).
+\newblock Context-aware middleware for mobile multimedia applications.
+\newblock In {\em Proceedings of the 3rd international conference on Mobile and
+  ubiquitous multimedia}, MUM '04, pages 213--220, New York, NY, USA. ACM.
+
+\bibitem[{Dieter Schmalstieg}, 2011]{StTbEs}
+{Dieter Schmalstieg} (2011).
+\newblock Studierstube es.
+\newblock \url{http://studierstube.icg.tu-graz.ac.at/handheld_ar/stbes.php}.
+
+\bibitem[Domhan, 2010]{aroasf}
+Domhan, T. (2010).
+\newblock Augmented reality on android smartphones.
+
+\bibitem[Domhan, 2011]{pandar}
+Domhan, T. (2011).
+\newblock Andar - android augmented reality.
+\newblock \url{http://code.google.com/p/andar/}.
+
+\bibitem[Eishita and Stanley, 2010]{Eishita:2010:TSA:1920778.1920811}
+Eishita, F.~Z. and Stanley, K.~G. (2010).
+\newblock Theempa: simple ar games using layar.
+\newblock In {\em Proceedings of the International Academic Conference on the
+  Future of Game Design and Technology}, Futureplay '10, pages 219--222, New
+  York, NY, USA. ACM.
+
+\bibitem[Fielding, 2000]{restfielding}
+Fielding, R. (2000).
+\newblock {\em Architectural Styles and the Design of Network-based Software
+  Architectures}.
+\newblock PhD thesis, University of Califormia, {Irvine, USA}.
+
+\bibitem[Frank K.~Wacker, 2010]{mrigd}
+Frank K.~Wacker, Sebastian~Vogt, A. K. J. A. J. S. G. N. D. R. E. F. S. J. L.
+  D. J. S.~L. (2010).
+\newblock An augmented reality system for mr image–guided needle biopsy:
+  Initial results in a swine model.
+\newblock \url{http://radiology.rsna.org/content/238/2/497.full}.
+
+\bibitem[Fujii and Suda, 2009]{Fujii:2009:SCD:1516533.1516536}
+Fujii, K. and Suda, T. (2009).
+\newblock Semantics-based context-aware dynamic service composition.
+\newblock {\em ACM Trans. Auton. Adapt. Syst.}, 4:12:1--12:31.
+
+\bibitem[Gammeter et~al., 2010]{bb86741}
+Gammeter, S., Gassmann, A., Bossard, L., Quack, T., and Van~Gool, L. (2010).
+\newblock Server-side object recognition and client-side object tracking for
+  mobile augmented reality.
+\newblock pages 1--8.
+
+\bibitem[Gartner.com, 2010a]{md2010}
+Gartner.com (2010a).
+\newblock Gartner says sales of mobile devices in second quarter of 2011 grew
+  16.5 percent year-on-year; smartphone sales grew 74 percent.
+\newblock \url{htt1://www.gartner.com/it/page.jsp?id=1372013}.
+
+\bibitem[Gartner.com, 2010b]{md2011}
+Gartner.com (2010b).
+\newblock Gartner says worldwide mobile phone sales grew 17 per cent in first
+  quarter 2010.
+\newblock \url{http://www.gartner.com/it/page.jsp?id=1764714}.
+
+\bibitem[Gaukrodger and Lintott, 2007]{Gaukrodger:2007:ARA:1328491.1328504}
+Gaukrodger, S.~J. and Lintott, A. (2007).
+\newblock Augmented reality and applications for assistive technology.
+\newblock In {\em Proceedings of the 1st international convention on
+  Rehabilitation engineering \&\#38; assistive technology: in conjunction with
+  1st Tan Tock Seng Hospital Neurorehabilitation Meeting}, i-CREATe '07, pages
+  47--51, New York, NY, USA. ACM.
+
+\bibitem[google, 2011]{goggles}
+google (2011).
+\newblock Google goggles: Use pictures to search the web.
+\newblock \url{http://www.google.com/mobile/goggles/}.
+
+\bibitem[HITLab, 2011]{artkfl}
+HITLab (2011).
+\newblock Artoolkit feature list.
+\newblock
+  \url{http://www.hitl.washington.edu/artoolkit/documentation/features.htm}.
+
+\bibitem[{Java Community Process}, 2011]{jsr241}
+{Java Community Process} (2011).
+\newblock Jsr 241: The groovy programming language.
+\newblock \url{http://www.jcp.org/en/jsr/detail?id=241}.
+
+\bibitem[Kaye, 2004]{Kaye:2004:MSA:962342.964333}
+Kaye, J.~J. (2004).
+\newblock Making scents: aromatic output for hci.
+\newblock {\em interactions}, 11:48--61.
+
+\bibitem[{Khronos Group}, 2011]{kronos}
+{Khronos Group} (2011).
+\newblock Opengl es - the standard for embedded accelerated 3d graphics.
+\newblock \url{http://www.khronos.org/opengles/}.
+
+\bibitem[Kjlma and Watanabe, 2009]{Kjlma:2009:FIP:1549820.1549906}
+Kjlma, R. and Watanabe, J. (2009).
+\newblock False image projector for head mounted display using
+  retrotransmissive optical system.
+\newblock In {\em Proceedings of the 2009 IEEE Virtual Reality Conference},
+  pages 297--298, Washington, DC, USA. IEEE Computer Society.
+
+\bibitem[Lan, 2011]{estoesgoogle}
+Lan, I. (2011).
+\newblock Rest, oauth y más: Comprendiendo los estándares de facto de la nube
+  para construir aplicaciones integradas.
+
+\bibitem[layar, 2011]{layar}
+layar (2011).
+\newblock layar.
+\newblock \url{http://www.layar.com}.
+
+\bibitem[Lechner and Tripp, 2010]{citeulike:6844215}
+Lechner, M. and Tripp, M. (2010).
+\newblock {ARML An Augmented Reality Standard}.
+\newblock {\em MobileARSummit,
+  http://www.perey.com/MobileARSummit/Mobilizy-ARML.pdf}.
+
+\bibitem[Lee, 2005]{sui}
+Lee, J. C.-H. (2005).
+\newblock Spatial user interface: Augmenting human sensibilities in a domestic
+  kitchen.
+\newblock Master's thesis, MIT.
+
+\bibitem[Leung and Salga, 2010]{1772933}
+Leung, C. and Salga, A. (2010).
+\newblock Enabling webgl.
+\newblock In {\em WWW '10: Proceedings of the 19th international conference on
+  World wide web}, pages 1369--1370, New York, NY, USA. ACM.
+
+\bibitem[Levine, 1997]{rtpr}
+Levine, J.~M. (1997).
+\newblock Real-time target and pose recognition for 3-d graphical overlay.
+\newblock Master's thesis, MIT.
+
+\bibitem[Liverani et~al., 2007]{1698266}
+Liverani, A., Carbone, L., and Caligiana, G. (2007).
+\newblock Vam: video aided modeling for shape reconstruction and re-design.
+\newblock In {\em IASTED-HCI '07: Proceedings of the Second IASTED
+  International Conference on Human Computer Interaction}, pages 74--79,
+  Anaheim, CA, USA. ACTA Press.
+
+\bibitem[Madden, 2011]{madden2011professional}
+Madden, L. (2011).
+\newblock {\em Professional Augmented Reality Browsers for Smartphones:
+  Programming for Junaio, Layar and Wikitude}.
+\newblock Wrox Programmer to Programmer. John Wiley \& Sons.
+
+\bibitem[M.L.~Yuan and Nee, 2002]{agar}
+M.L.~Yuan, S.~O. and Nee, A. (2002).
+\newblock Assembly guidance in augmented reality environments using a virtual
+  interactive tool.
+\newblock Technical report, Singapore-MIT Alliance.
+
+\bibitem[Parviz, 2009]{arcl}
+Parviz, B.~A. (2009).
+\newblock Augmented reality in a contact lens.
+\newblock {\em Ieee Spectrum}, 9:1--5.
+
+\bibitem[Perry and Wolf, 1992]{Perry:1992:FSS:141874.141884}
+Perry, D.~E. and Wolf, A.~L. (1992).
+\newblock Foundations for the study of software architecture.
+\newblock {\em SIGSOFT Softw. Eng. Notes}, 17:40--52.
+
+\bibitem[R.~Marín, 2002]{vhli}
+R.~Marín, P. J.~Sanz, J. S.~S. (2002).
+\newblock A very high level interface to teleoperate a robot via web including
+  augmented reality.
+\newblock In {\em International Conference of Robotic And Automation}.
+
+\bibitem[Rahmani et~al., 2010]{Rahmani:2010:TCA:1869652.1869662}
+Rahmani, H., Piccart, B., Fierens, D., and Blockeel, H. (2010).
+\newblock Three complementary approaches to context aware movie recommendation.
+\newblock In {\em Proceedings of the Workshop on Context-Aware Movie
+  Recommendation}, CAMRa '10, pages 57--60, New York, NY, USA. ACM.
+
+\bibitem[Rozie, 2000]{hat}
+Rozie, J.~M. (2000).
+\newblock Hear and there: An augmented reality system of linked audio.
+\newblock Master's thesis, MIT.
+
+\bibitem[S.~K.~Ong, 2004]{rupr}
+S.~K.~Ong, M.L~Yuan, A. Y. C.~N. (2004).
+\newblock Registration using projective reconstruction for augmented reality
+  systems.
+\newblock In {\em Proceedings of the 2004 ACM SIGGRAPH international conference
+  on Virtual Reality continuum and its applications in industry}.
+
+\bibitem[Said et~al., 2010]{Said:2010:PTC:1869652.1869665}
+Said, A., Berkovsky, S., and De~Luca, E.~W. (2010).
+\newblock Putting things in context: Challenge on context-aware movie
+  recommendation.
+\newblock In {\em Proceedings of the Workshop on Context-Aware Movie
+  Recommendation}, CAMRa '10, pages 2--6, New York, NY, USA. ACM.
+
+\bibitem[Schall et~al., 2009]{1527367}
+Schall, G., Mendez, E., Kruijff, E., Veas, E., Junghanns, S., Reitinger, B.,
+  and Schmalstieg, D. (2009).
+\newblock Handheld augmented reality for underground infrastructure
+  visualization.
+\newblock {\em Personal Ubiquitous Comput.}, 13(4):281--291.
+
+\bibitem[Sherstyuk and Treskunov, 2009]{Sherstyuk:2009:DLA:1643928.1643982}
+Sherstyuk, A. and Treskunov, A. (2009).
+\newblock Dynamic light amplification for head mounted displays.
+\newblock In {\em Proceedings of the 16th ACM Symposium on Virtual Reality
+  Software and Technology}, VRST '09, pages 235--236, New York, NY, USA. ACM.
+
+\bibitem[Sonoda et~al., 2005]{Sonoda:2005:XFO:1187297.1187330}
+Sonoda, T., Endo, T., Kawakami, N., and Tachi, S. (2005).
+\newblock X'talvisor: full open type head-mounted projector.
+\newblock In {\em ACM SIGGRAPH 2005 Emerging technologies}, SIGGRAPH '05, New
+  York, NY, USA. ACM.
+
+\bibitem[{Spark Project}, 2011]{flartoolkit}
+{Spark Project} (2011).
+\newblock Flartoolkit.
+\newblock \url{http://www.libspark.org/wiki/saqoosha/FLARToolKit/en}.
+
+\bibitem[Spong et~al., 2006]{rmac}
+Spong, M.~W., Hutchinson, S., and Vidyasagar, M. (2006).
+\newblock {\em Robot modeling and control}.
+\newblock John Wiley and Sons, Hoboken, NJ.
+\newblock Incluye referencias bibliogr\'aficas (p. 459-470) e \'indice.
+
+\bibitem[Taherkordi et~al., 2009]{Taherkordi:2009:SLA:1554233.1554244}
+Taherkordi, A., Rouvoy, R., Le-Trung, Q., and Eliassen, F. (2009).
+\newblock Supporting lightweight adaptations in context-aware wireless sensor
+  networks.
+\newblock In {\em Proceedings of the 1st International Workshop on
+  Context-Aware Middleware and Services: affiliated with the 4th International
+  Conference on Communication System Software and Middleware (COMSWARE 2009)},
+  CAMS '09, pages 43--48, New York, NY, USA. ACM.
+
+\bibitem[Takacs et~al., 2008]{1460165}
+Takacs, G., Chandrasekhar, V., Gelfand, N., Xiong, Y., Chen, W.-C.,
+  Bismpigiannis, T., Grzeszczuk, R., Pulli, K., and Girod, B. (2008).
+\newblock Outdoors augmented reality on mobile phone using loxel-based visual
+  feature organization.
+\newblock In {\em MIR '08: Proceeding of the 1st ACM international conference
+  on Multimedia information retrieval}, pages 427--434, New York, NY, USA. ACM.
+
+\bibitem[Tan and Huang, 2008]{Tan:2008:IDP:1396808.1397457}
+Tan, D. and Huang, S.-H.~S. (2008).
+\newblock Integrating direct3d programming into computer science curriculum.
+\newblock In {\em Proceedings of the Fifth International Conference on
+  Information Technology: New Generations}, pages 534--538, Washington, DC,
+  USA. IEEE Computer Society.
+
+\bibitem[Tobias~Langlotz, ]{IntroStTubeES}
+Tobias~Langlotz, A.~M.
+\newblock Introduction to studierstube es.
+\newblock
+  \url{http://www.icg.tu-graz.ac.at/Members/club_gruber/StbES/StbES-Lecture/at%
+_download/file}.
+
+\bibitem[Wikitude, 2011]{wikitude}
+Wikitude (2011).
+\newblock Wikitude.
+\newblock \url{http://www.wikitude.org/}.
+
+\bibitem[Yokokohji et~al., 2000]{Yokokohji:2000:AIO:832288.835786}
+Yokokohji, Y., Sugawara, Y., and Yoshikawa, T. (2000).
+\newblock Accurate image overlay on video see-through hmds using vision and
+  accelerometers.
+\newblock In {\em Proceedings of the IEEE Virtual Reality 2000 Conference}, VR
+  '00, pages 247--, Washington, DC, USA. IEEE Computer Society.
+
+\end{thebibliography}

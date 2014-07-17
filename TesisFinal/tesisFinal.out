@@ -1,0 +1,117 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Antecedentes}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Definici\363n del problema}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Objetivos}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Justificaci\363n}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Hip\363tesis}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Metodolog\355a}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{Conclusiones}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Estado del arte}{}% 9
+\BOOKMARK [0][-]{chapter.3}{Elementos que componen una aplicaci\363n de RA}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Introducci\363n}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Aplicaciones gr\341ficas}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.2.1}{Introducci\363n}{section.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.2.2}{Aplicaciones gr\341ficas interactivas}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.3}{Software y lenguajes de programaci\363n para gr\341ficas computacionales}{section.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.2.4}{Est\341ndares de software gr\341fico}{section.3.2}% 16
+\BOOKMARK [1][-]{section.3.3}{Bibliotecas para creaci\363n de aplicaciones de RA}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.4}{Conclusi\363n}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Arquitectura basada en componentes}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Introducci\363n}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.2}{Antecedentes}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.3}{Diferencias entre POO y POC}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.4}{Ventajas de la POC}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.4.1}{Conquistar la complejidad}{section.4.4}% 24
+\BOOKMARK [2][-]{subsection.4.4.2}{Administrar los cambios}{section.4.4}% 25
+\BOOKMARK [2][-]{subsection.4.4.3}{Reusar c\363digo}{section.4.4}% 26
+\BOOKMARK [2][-]{subsection.4.4.4}{Mejora de la calidad}{section.4.4}% 27
+\BOOKMARK [2][-]{subsection.4.4.5}{Aumento en la productividad}{section.4.4}% 28
+\BOOKMARK [2][-]{subsection.4.4.6}{Fomenta la estandarizaci\363n del software}{section.4.4}% 29
+\BOOKMARK [1][-]{section.4.5}{Tecnolog\355as orientadas a componentes}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.6}{Conclusi\363n}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Marco de trabajo}{}% 32
+\BOOKMARK [1][-]{section.5.1}{OpenGL}{chapter.5}% 33
+\BOOKMARK [2][-]{subsection.5.1.1}{OpenGL ES}{section.5.1}% 34
+\BOOKMARK [2][-]{subsection.5.1.2}{WebGL}{section.5.1}% 35
+\BOOKMARK [2][-]{subsection.5.1.3}{Conclusi\363n}{section.5.1}% 36
+\BOOKMARK [1][-]{section.5.2}{ARtoolkit}{chapter.5}% 37
+\BOOKMARK [2][-]{subsection.5.2.1}{Introducci\363n}{section.5.2}% 38
+\BOOKMARK [2][-]{subsection.5.2.2}{Implementaciones}{section.5.2}% 39
+\BOOKMARK [1][-]{section.5.3}{Android}{chapter.5}% 40
+\BOOKMARK [2][-]{subsection.5.3.1}{Introducci\363n}{section.5.3}% 41
+\BOOKMARK [2][-]{subsection.5.3.2}{Arquitectura}{section.5.3}% 42
+\BOOKMARK [1][-]{section.5.4}{Frameworks para el desarrollo r\341pido de aplicaciones}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.4.1}{Spring Roo}{section.5.4}% 44
+\BOOKMARK [2][-]{subsection.5.4.2}{Grails}{section.5.4}% 45
+\BOOKMARK [2][-]{subsection.5.4.3}{Conclusi\363n}{section.5.4}% 46
+\BOOKMARK [1][-]{section.5.5}{Groovy}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.6}{Rest}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.6.1}{REST y Grails}{section.5.6}% 49
+\BOOKMARK [1][-]{section.5.7}{Json}{chapter.5}% 50
+\BOOKMARK [1][-]{section.5.8}{Conclusi\363n}{chapter.5}% 51
+\BOOKMARK [0][-]{chapter.6}{Caching basado en geoposicionamiento}{}% 52
+\BOOKMARK [1][-]{section.6.1}{Introducci\363n}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.2}{Caching}{chapter.6}% 54
+\BOOKMARK [1][-]{section.6.3}{Implementaci\363n}{chapter.6}% 55
+\BOOKMARK [1][-]{section.6.4}{Conclusi\363n}{chapter.6}% 56
+\BOOKMARK [0][-]{chapter.7}{Arquitectura propuesta}{}% 57
+\BOOKMARK [1][-]{section.7.1}{Introducci\363n}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.2}{ADARA}{chapter.7}% 59
+\BOOKMARK [1][-]{section.7.3}{Cliente}{chapter.7}% 60
+\BOOKMARK [2][-]{subsection.7.3.1}{Activity}{section.7.3}% 61
+\BOOKMARK [3][-]{subsubsection.7.3.1.1}{Prop\363sitos}{subsection.7.3.1}% 62
+\BOOKMARK [3][-]{subsubsection.7.3.1.2}{Implementaci\363n}{subsection.7.3.1}% 63
+\BOOKMARK [3][-]{subsubsection.7.3.1.3}{Ventajas}{subsection.7.3.1}% 64
+\BOOKMARK [2][-]{subsection.7.3.2}{Men\372s}{section.7.3}% 65
+\BOOKMARK [3][-]{subsubsection.7.3.2.1}{Prop\363sitos}{subsection.7.3.2}% 66
+\BOOKMARK [3][-]{subsubsection.7.3.2.2}{Implementaci\363n}{subsection.7.3.2}% 67
+\BOOKMARK [3][-]{subsubsection.7.3.2.3}{Ventajas}{subsection.7.3.2}% 68
+\BOOKMARK [2][-]{subsection.7.3.3}{Caching}{section.7.3}% 69
+\BOOKMARK [2][-]{subsection.7.3.4}{Carga de objetos 3D}{section.7.3}% 70
+\BOOKMARK [3][-]{subsubsection.7.3.4.1}{Prop\363sitos}{subsection.7.3.4}% 71
+\BOOKMARK [3][-]{subsubsection.7.3.4.2}{Implementaci\363n}{subsection.7.3.4}% 72
+\BOOKMARK [3][-]{subsubsection.7.3.4.3}{Ventajas}{subsection.7.3.4}% 73
+\BOOKMARK [1][-]{section.7.4}{Servidor}{chapter.7}% 74
+\BOOKMARK [2][-]{subsection.7.4.1}{Plugin grails}{section.7.4}% 75
+\BOOKMARK [3][-]{subsubsection.7.4.1.1}{Prop\363sitos}{subsection.7.4.1}% 76
+\BOOKMARK [3][-]{subsubsection.7.4.1.2}{Implementaci\363n}{subsection.7.4.1}% 77
+\BOOKMARK [3][-]{subsubsection.7.4.1.3}{Ventajas}{subsection.7.4.1}% 78
+\BOOKMARK [2][-]{subsection.7.4.2}{An\341lisis de datos}{section.7.4}% 79
+\BOOKMARK [3][-]{subsubsection.7.4.2.1}{Prop\363sitos}{subsection.7.4.2}% 80
+\BOOKMARK [3][-]{subsubsection.7.4.2.2}{Implementaci\363n}{subsection.7.4.2}% 81
+\BOOKMARK [3][-]{subsubsection.7.4.2.3}{Ventajas}{subsection.7.4.2}% 82
+\BOOKMARK [2][-]{subsection.7.4.3}{Administraci\363n de aplicaci\363n}{section.7.4}% 83
+\BOOKMARK [3][-]{subsubsection.7.4.3.1}{Prop\363sitos}{subsection.7.4.3}% 84
+\BOOKMARK [3][-]{subsubsection.7.4.3.2}{Implementaci\363n}{subsection.7.4.3}% 85
+\BOOKMARK [2][-]{subsection.7.4.4}{Administraci\363n de usuario}{section.7.4}% 86
+\BOOKMARK [3][-]{subsubsection.7.4.4.1}{Prop\363sitos}{subsection.7.4.4}% 87
+\BOOKMARK [3][-]{subsubsection.7.4.4.2}{Implementaci\363n}{subsection.7.4.4}% 88
+\BOOKMARK [2][-]{subsection.7.4.5}{Comunicaci\363n}{section.7.4}% 89
+\BOOKMARK [3][-]{subsubsection.7.4.5.1}{Prop\363sitos}{subsection.7.4.5}% 90
+\BOOKMARK [3][-]{subsubsection.7.4.5.2}{Implementaci\363n}{subsection.7.4.5}% 91
+\BOOKMARK [3][-]{subsubsection.7.4.5.3}{Ventajas}{subsection.7.4.5}% 92
+\BOOKMARK [0][-]{chapter.8}{Caso de estudio y resultados}{}% 93
+\BOOKMARK [1][-]{section.8.1}{Introducci\363n}{chapter.8}% 94
+\BOOKMARK [1][-]{section.8.2}{Escenario}{chapter.8}% 95
+\BOOKMARK [1][-]{section.8.3}{Curva de aprendizaje}{chapter.8}% 96
+\BOOKMARK [2][-]{subsection.8.3.1}{Desarrollo tradicional}{section.8.3}% 97
+\BOOKMARK [2][-]{subsection.8.3.2}{Soluciones prove\355das por ADARA}{section.8.3}% 98
+\BOOKMARK [3][-]{subsubsection.8.3.2.1}{Falta de conocimiento de OpenGL por parte del desarrollador}{subsection.8.3.2}% 99
+\BOOKMARK [3][-]{subsubsection.8.3.2.2}{Necesidad de hace uso de diversas tecnolog\355as para poder lograr los objetivos}{subsection.8.3.2}% 100
+\BOOKMARK [3][-]{subsubsection.8.3.2.3}{Necesidad de entender como funcionaba el c\363digo de las principales clases para poder extender alguna funcionalidad}{subsection.8.3.2}% 101
+\BOOKMARK [2][-]{subsection.8.3.3}{Desarrollo por medio de ADARA}{section.8.3}% 102
+\BOOKMARK [1][-]{section.8.4}{Tiempo de desarrollo}{chapter.8}% 103
+\BOOKMARK [2][-]{subsection.8.4.1}{Desarrollo tradicional}{section.8.4}% 104
+\BOOKMARK [2][-]{subsection.8.4.2}{Desarrollo por medio de ADARA}{section.8.4}% 105
+\BOOKMARK [1][-]{section.8.5}{Tecnolog\355as}{chapter.8}% 106
+\BOOKMARK [2][-]{subsection.8.5.1}{Desarrollo tradicional}{section.8.5}% 107
+\BOOKMARK [2][-]{subsection.8.5.2}{Desarrollo por medio de ADARA}{section.8.5}% 108
+\BOOKMARK [1][-]{section.8.6}{Facilidad para agregar nuevos componentes}{chapter.8}% 109
+\BOOKMARK [2][-]{subsection.8.6.1}{Desarrollo tradicional}{section.8.6}% 110
+\BOOKMARK [2][-]{subsection.8.6.2}{Desarrollo por medio de ADARA}{section.8.6}% 111
+\BOOKMARK [1][-]{section.8.7}{Enfoque en objetivos de negocio}{chapter.8}% 112
+\BOOKMARK [2][-]{subsection.8.7.1}{Desarrollo tradicional}{section.8.7}% 113
+\BOOKMARK [2][-]{subsection.8.7.2}{Desarrollo por medio de ADARA}{section.8.7}% 114
+\BOOKMARK [1][-]{section.8.8}{Conclusi\363n}{chapter.8}% 115
+\BOOKMARK [0][-]{chapter.9}{Conclusiones}{}% 116
+\BOOKMARK [0][-]{chapter.10}{Trabajo futuro}{}% 117

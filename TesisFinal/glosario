@@ -1,0 +1,54 @@
+\newglossaryentry{hardware}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{software}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{offline}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{plug and play}
+{name=plug and play,           
+ description={to be define}
+}
+
+\newglossaryentry{JNDI}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{GET}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{POST}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{RPC}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{ORM}
+{name=setNuevo,           
+ description={to be define}
+}
+
+\newglossaryentry{IoC}
+{name=setNuevo,           
+ description={to be define}
+}
+
+
+URLS usadas.....
+
+http://java.sun.com/developer/onlineTraining/Programming/JDCBook/corba.html#stub
